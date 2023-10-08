@@ -1,0 +1,10 @@
+# my_tuple=(1,2,3)
+# print(my_tuple)
+# print(type(my_tuple))
+# print(my_tuple[0])
+#tuple is constant (immutable)
+
+my_tuple=("suman",35, "kathmandu",21.5)
+print(my_tuple)
+print(type(my_tuple))
+print(my_tuple[::-1])
